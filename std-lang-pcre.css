@@ -1,0 +1,11 @@
+std\:lang-pcre {
+	font-family: monospace;
+}
+
+std\:lang-pcre-ghost {
+	color: #ddd;
+}
+
+std\:lang-pcre-control {
+	font-weight: bold;
+}
